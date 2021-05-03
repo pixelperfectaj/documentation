@@ -5,6 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: "."
+  label: story template
+  match: "**/*"
+- type: document
   path: ''
   label: section 3
 - type: directory
