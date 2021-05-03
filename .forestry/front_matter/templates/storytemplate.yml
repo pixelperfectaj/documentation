@@ -1,4 +1,14 @@
 ---
 label: storytemplate
 hide_body: false
-fields: []
+fields:
+- name: section
+  type: text
+  config:
+    required: false
+  label: section
+- name: subblurb
+  type: text
+  config:
+    required: false
+  label: subblurb
