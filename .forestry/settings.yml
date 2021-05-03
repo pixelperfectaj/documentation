@@ -7,12 +7,10 @@ sections:
 - type: document
   path: ''
   label: section 3
-  match: "**/*"
-  read_only: false
 - type: directory
   path: ''
   label: section-type
-  create: documents
+  create: none
   match: "**/*"
   templates:
   - storytemplate
