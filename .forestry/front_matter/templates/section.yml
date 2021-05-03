@@ -1,4 +1,19 @@
 ---
 label: section
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: visualization_title
+  type: text
+  config:
+    required: false
+  label: visualization title
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: subtitle
