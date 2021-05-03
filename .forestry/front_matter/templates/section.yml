@@ -17,3 +17,5 @@ fields:
   config:
     required: false
   label: subtitle
+pages:
+- new-section.md
