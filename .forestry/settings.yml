@@ -16,7 +16,7 @@ sections:
   create: none
   match: "**/*"
   templates:
-  - storytemplate
+  - section
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
