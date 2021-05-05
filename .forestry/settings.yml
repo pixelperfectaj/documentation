@@ -5,15 +5,14 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: ''
+  path: "."
   label: afg
-  match: "**/*"
 - type: document
   path: ''
   label: section 3
 - type: directory
   path: ''
-  label: section-type
+  label: site-subset
   create: documents
   match: "**/*"
   templates:
