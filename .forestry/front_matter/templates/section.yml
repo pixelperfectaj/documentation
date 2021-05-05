@@ -1,6 +1,7 @@
 ---
-label: section
+label: tool template
 hide_body: false
+display_field: visualization_title
 fields:
 - name: title
   type: text
