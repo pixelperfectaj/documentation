@@ -10,7 +10,7 @@ sections:
 - type: directory
   path: ''
   label: section-type
-  create: none
+  create: documents
   match: "**/*"
   templates:
   - section
