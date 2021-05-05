@@ -13,3 +13,5 @@ fields:
   config:
     required: false
   label: subblurb
+pages:
+- test analysis.md
