@@ -4,6 +4,14 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: ''
+  label: afg
+  create: all
+  match: "**/*"
+  templates:
+  - storytemplate
+  - section
 - type: document
   path: ''
   label: section 3
