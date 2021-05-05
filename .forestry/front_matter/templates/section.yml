@@ -18,4 +18,5 @@ fields:
     required: false
   label: subtitle
 pages:
+- kkkkk.md
 - new-section.md
