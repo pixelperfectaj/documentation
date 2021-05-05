@@ -1,6 +1,7 @@
 ---
-label: storytemplate
+label: 2 section story template
 hide_body: false
+display_field: section
 fields:
 - name: section
   type: text
