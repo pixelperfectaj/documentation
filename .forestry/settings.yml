@@ -14,6 +14,8 @@ sections:
   match: "**/*"
   templates:
   - section
+  - storytemplate
+  - section
 - type: document
   path: "**/*"
   label: story-template
