@@ -6,6 +6,10 @@ webhook_url:
 sections:
 - type: document
   path: ''
+  label: afg
+  match: "**/*"
+- type: document
+  path: ''
   label: section 3
 - type: directory
   path: ''
